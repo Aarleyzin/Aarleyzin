@@ -10,7 +10,7 @@
   <a href="https://beacons.ai/aarleyzin">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aarleyzin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarleyzin&layout=compact&langs_count=7&theme=midnight-purple"/>
-<p align="left"> 
+<p align="center"> 
 
 ### Linguagens
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
