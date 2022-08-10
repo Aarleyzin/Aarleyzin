@@ -5,14 +5,17 @@
 
 ##
 
-<div align="right">
+
+<div align="left">
   <a href="https://beacons.ai/aarleyzin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aarleyzin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarleyzin&layout=compact&theme=midnight-purple"/>
     <p align="center"> 
 </div>
 
-### Linguagens
+
+  ### Linguagens
   
   <div style="display: inline_block"><br>
   <a href="https://www.w3.org/html/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
