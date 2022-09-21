@@ -1,7 +1,7 @@
 ### Fala comigo ✌️
 
 - 📚 Estudando linguagens 
-- 🧠 Práticando ao máximo
+- 🧠 Fome de aprender
 
 ##
 
