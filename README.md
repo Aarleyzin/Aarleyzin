@@ -1,8 +1,7 @@
-### Fala comigo ✌️
+### Hi!
 
 - 👨‍💻 Swift Developer
 - 🧠 Hábitos Atômicos
-
 ##
 
 
@@ -21,6 +20,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40"/> </a>
  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="38" height="40"/> </a>
+    
+    
+    
   <img align="right" alt="lince-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/889316131083526164/1068979066121752576/aarley_branco_Prancheta_1.png?width=676&height=676">
 
 </div>
@@ -29,11 +31,7 @@
 
 ##
 
-<div>
-<a href="https://www.tiktok.com/@aarleyzin" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-<a href="https://www.twitter.com/aarleyzin" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/aarleyzin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/aarleyzin" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+
   
 
 </div>
