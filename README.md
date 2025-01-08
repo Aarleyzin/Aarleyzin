@@ -34,7 +34,6 @@
     <span style="margin-left: 5px;">Instagram</span>
   </a>
 </div>
-
 <div>
   <a href="https://www.linkedin.com/in/aarleyzin/">
     <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
