@@ -28,17 +28,16 @@
 ---
 
 ### Conecte-se comigo! 🌎
-
 <div>
   <a href="https://instagram.com/cariocaaus">
-    <img align="left" alt="Aarleyzin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    Instagram
+    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <span style="margin-left: 5px;">Instagram</span>
   </a>
-  
-  <br/>
-  
+</div>
+
+<div>
   <a href="https://www.linkedin.com/in/aarleyzin/">
-    <img align="left" alt="Aarleyzin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    LinkedIn
+    <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <span style="margin-left: 5px;">LinkedIn</span>
   </a>
 </div>
