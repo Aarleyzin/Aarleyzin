@@ -31,20 +31,22 @@
 
 
   <a href="https://instagram.com/cariocaaus">
-    <img align="left" alt="Aarleyzin's Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+    <img align="left" alt="Aarleyzin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
     Instagram
   </a>
+ 
   
   <br/>
   <a href="https://www.linkedin.com/in/aarleyzin/">
-    <img align="left" alt="Aarleyzin's LinkdeIN" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+    <img align="left" alt="Aarleyzin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
     LinkedIn
   </a>
+
   
   <br/>
-  <a <a href="https://www.discordapp.com/users/168379726333739008"> 
+  <a href="https://www.discordapp.com/users/168379726333739008"> 
     <img align="left" alt="Aarleyzin's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-  Discord 
+  Discord
   </a> 
 
 
