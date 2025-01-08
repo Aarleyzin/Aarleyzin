@@ -27,12 +27,18 @@
 
 ---
 
-### Conecte-se comigo! 🌎
+### Social ! 🌎
 
-<a><img align="left" alt="Aarleyzin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><a href="https://instagram.com/cariocaaus">Instagram</a>
-<br/>
-<a><img align="left" alt="Aarleyzin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="https://[br.linkedin.com/in/aarleyzin](https://www.linkedin.com/in/aarleyzin/)">Linkedin </a>
-<br/>  <br/> 
+<div align="left">
+  <a href="https://instagram.com/cariocaaus">
+    <img align="left" alt="Aarleyzin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    Instagram
+  </a>
+  
+  <br/>
+  
+  <a href="https://www.linkedin.com/in/aarleyzin/">
+    <img align="left" alt="Aarleyzin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    LinkedIn
+  </a>
 </div>
