@@ -29,7 +29,7 @@
 
 ### Social ! 🌎
 
-<div align="center">
+<div>
   <a href="https://instagram.com/cariocaaus">
     <img align="left" alt="Aarleyzin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
     Instagram
