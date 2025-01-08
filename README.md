@@ -29,7 +29,7 @@
 
 ### Social ! 🌎
 
-<div>
+
   <a href="https://instagram.com/cariocaaus">
     <img align="left" alt="Aarleyzin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
     Instagram
@@ -39,4 +39,10 @@
     <img align="left" alt="Aarleyzin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
     LinkedIn
   </a>
-</div>
+  <br/>
+  <a <a href="https://www.discordapp.com/users/168379726333739008"> 
+    <img align="left" alt="Aarleyzin's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  Discord 
+  </a> 
+
+
