@@ -41,7 +41,7 @@
   </a>
   <br/>
   <a <a href="https://www.discordapp.com/users/168379726333739008"> 
-    <img align="left" alt="Aarleyzin's Discord" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align="left" alt="Aarleyzin's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   Discord 
   </a> 
 
