@@ -31,16 +31,24 @@ em evolução. 🚀
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-livid-nine-82.vercel.app/api?username=Aarleyzin&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-livid-nine-82.vercel.app/api?username=Aarleyzin&layout=compact&theme=tokyonight"/>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats-livid-nine-82.vercel.app/api?username=Aarleyzin&show_icons=true&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats-livid-nine-82.vercel.app/api/top-langs/?username=Aarleyzin&layout=compact&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aarleyzin&theme=tokyonight&locale=pt_br"/>
 </div>
+
 
 ---
 
