@@ -34,8 +34,8 @@ em evolução. 🚀
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarleyzin&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarleyzin&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-livid-nine-82.vercel.app/api?username=Aarleyzin&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-livid-nine-82.vercel.app/api?username=Aarleyzin&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center">
