@@ -20,6 +20,20 @@ em evolução. 🚀
 
 ---
 
+# 👾 Arlindo Orsini (Aarleyzin)
+
+## 👨‍💻 About Me
+
+Hey! My journey with technology started early — taking apart computers as a kid (and sometimes managing to put them back together 😅) and already messing with friends at school using CMD commands.
+
+Today I'm building my career as a developer, focused on full stack web development with my eyes set on the mobile world with Swift 🍎. Because stopping was never an option.
+
+I'm logical, pragmatic, and driven by a constant hunger for knowledge. I learn fast, stay focused on results, and put dedication into everything I do. My goal is to combine passion, technique, and creativity to build solutions that make a real difference in people's lives.
+
+Currently studying Systems Analysis and Development — and always evolving. 🚀
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
