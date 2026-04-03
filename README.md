@@ -1,36 +1,29 @@
-# 👾 Arlindo Orsini (Aarleyzin)
+# 👨🏻‍💻 🧠 Arlindo Orsini (Aarleyzin)
+
+>**Hello World! If you'd like to view this profile in English, scroll down to see more.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aarleyzin&label=Profile%20views&color=0e75b6&style=flat" alt="Aarleyzin" /> </p>
 
 ## 👨‍💻 Sobre Mim
 
-E aí! Minha história com tecnologia começou cedo - desmontando 
-computadores desde pequeno (às vezes até conseguia montar de volta 😅) 
-e já trollando os amigos no colégio com uns comandos no CMD.
+Profissional em formação na área de desenvolvimento de software, com foco em **Software Engineering** e **AI-Driven Solutions Architecture**.
 
-Hoje estou construindo minha carreira como desenvolvedor, com foco em 
-desenvolvimento web full stack e os olhos postos no universo mobile 
-com Swift 🍎. Porque parar nunca foi uma opção.
+Tenho direcionado minha evolução para o desenvolvimento de aplicações completas, combinando lógica de negócio, organização de sistemas e uso estratégico de IA no desenho de soluções.
 
-Sou lógico, pragmático e movido pela sede de conhecimento. Aprendo 
-rápido, foco nos resultados e coloco dedicação em tudo que faço. 
-Meu objetivo é unir paixão, técnica e criatividade para desenvolver 
-soluções que façam diferença real na vida das pessoas.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**, fortalecendo minha base em desenvolvimento, arquitetura e escalabilidade.
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas e sempre 
-em evolução. 🚀
+### 🚀 Foco Atual
+- Aplicações **web full stack**
+- Arquitetura de soluções orientadas por **IA**
+- Sistemas escaláveis, organizados e centrados em resultado
+- Expansão de conhecimentos no universo **mobile com Swift**
 
----
+### 🧠 Perfil
+- Raciocínio lógico e abordagem pragmática
+- Aprendizado rápido e adaptação constante
+- Interesse por tecnologia, arquitetura e resolução de problemas
+- Dedicação à construção de soluções que gerem valor real
 
-# 👾 Arlindo Orsini (Aarleyzin)
-
-## 👨‍💻 About Me
-
-Hey! My journey with technology started early — taking apart computers as a kid (and sometimes managing to put them back together 😅) and already messing with friends at school using CMD commands.
-
-Today I'm building my career as a developer, focused on full stack web development with my eyes set on the mobile world with Swift 🍎. Because stopping was never an option.
-
-I'm logical, pragmatic, and driven by a constant hunger for knowledge. I learn fast, stay focused on results, and put dedication into everything I do. My goal is to combine passion, technique, and creativity to build solutions that make a real difference in people's lives.
-
-Currently studying Systems Analysis and Development — and always evolving. 🚀
 
 ---
 
@@ -73,6 +66,32 @@ Currently studying Systems Analysis and Development — and always evolving. �
 
 ---
 
+<details>
+  <summary> <b> Want to see the Profile Page in English? </b> <i>(Click here to Expand it!)</i> </summary>
+  <br>
+  
+  
+## 👨‍💻 About Me
+
+I'm a software developer in training, currently focused on **Software Engineering** and **AI-Driven Solutions Architecture**.
+
+My journey has been centered on building complete applications, combining business logic, system organization, and the strategic use of AI to design practical and scalable solutions.
+
+I am currently pursuing degrees in **Systems Analysis and Development** and **Software Engineering**, continuously strengthening my skills in development, architecture, and scalable systems design.
+
+### 🚀 Current Focus
+- **Full-stack** application development
+- **AI-driven** solutions architecture
+- Scalable, organized, and result-oriented systems
+- Expanding into **mobile development with Swift**
+
+### 🧠 Profile
+- Logical thinking and a pragmatic mindset
+- Fast learner with strong adaptability
+- Passion for technology, architecture, and problem-solving
+- Focused on building solutions that deliver real value
+
+---
 
 ## 📊 GitHub Stats
 
