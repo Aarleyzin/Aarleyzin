@@ -1,4 +1,10 @@
-# 👨🏻‍💻 🧠 Arlindo Orsini (Aarleyzin)
+<h1 align="center"> 👨🏻‍💻 🧠 Arlindo Orsini (Aarleyzin) </h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Coding animation" />
+</p>
+
+
 
 >**Hello World! If you'd like to view this profile in English, scroll down to see more.**
 
@@ -90,6 +96,7 @@ I am currently pursuing degrees in **Systems Analysis and Development** and **So
 - Fast learner with strong adaptability
 - Passion for technology, architecture, and problem-solving
 - Focused on building solutions that deliver real value
+</details>
 
 ---
 
