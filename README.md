@@ -19,7 +19,7 @@ Tenho direcionado minha evolução para o desenvolvimento de aplicações comple
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software**, fortalecendo minha base em desenvolvimento, arquitetura e escalabilidade.
 
 ### 🚀 Foco Atual
-- Aplicações **web full stack**
+- Aplicações **mobile**
 - Arquitetura de soluções orientadas por **IA**
 - Sistemas escaláveis, organizados e centrados em resultado
 - Expansão de conhecimentos no universo **mobile com Swift**
@@ -82,7 +82,7 @@ My journey has been centered on building complete applications, combining busine
 I am currently pursuing degrees in **Systems Analysis and Development** and **Software Engineering**, continuously strengthening my skills in development, architecture, and scalable systems design.
 
 ### 🚀 Current Focus
-- **Full-stack** application development
+- **Mobile** application development
 - **AI-driven** solutions architecture
 - Scalable, organized, and result-oriented systems
 - Expanding into **mobile development with Swift**
