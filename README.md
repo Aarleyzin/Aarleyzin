@@ -36,35 +36,59 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Engenharia de So
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### Desenvolvimento Web (Front-end & Back-end)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logoColor=white)
-
-### Desenvolvimento Mobile
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-### Bancos de Dados & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Ferramentas & DevOps
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge&logo=azure-devops&logoColor=white)
+<table>
+  <tr>
+    <td><strong>Linguagens</strong></td>
+    <td>
+      <img alt="TypeScript" title="TypeScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img alt="JavaScript" title="JavaScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img alt="Swift" title="Swift" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img alt="React" title="React" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img alt="HTML5" title="HTML5" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img alt="CSS3" title="CSS3" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img alt="Node.js" title="Node.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img alt="Express" title="Express" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+      <img alt="REST API" title="REST API" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img alt="React Native" title="React Native" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img alt="Expo" title="Expo" width="28" src="https://cdn.simpleicons.org/expo/ffffff" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Bancos de Dados & Cloud</strong></td>
+    <td>
+      <img alt="MySQL" title="MySQL" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img alt="MongoDB" title="MongoDB" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      <img alt="Firebase" title="Firebase" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+      <img alt="AWS" title="AWS" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Ferramentas & DevOps</strong></td>
+    <td>
+      <img alt="Git" title="Git" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img alt="GitHub" title="GitHub" width="28" src="https://cdn.simpleicons.org/github/ffffff" />
+      <img alt="NPM" title="NPM" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+      <img alt="Vite" title="Vite" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+      <img alt="VS Code" title="VS Code" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img alt="GitHub Actions" title="GitHub Actions / CI/CD" width="28" src="https://cdn.simpleicons.org/githubactions/2088FF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -92,6 +116,62 @@ I am currently pursuing degrees in **Systems Analysis and Development** and **So
 - Fast learner with strong adaptability
 - Passion for technology, architecture, and problem-solving
 - Focused on building solutions that deliver real value
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img alt="JavaScript" title="JavaScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img alt="TypeScript" title="TypeScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img alt="Swift" title="Swift" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img alt="React" title="React" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img alt="HTML5" title="HTML5" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      <img alt="CSS3" title="CSS3" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img alt="Node.js" title="Node.js" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img alt="Express" title="Express" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+      <img alt="REST API" title="REST API" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img alt="React Native" title="React Native" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img alt="Expo" title="Expo" width="28" src="https://cdn.simpleicons.org/expo/ffffff" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Cloud</strong></td>
+    <td>
+      <img alt="MySQL" title="MySQL" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img alt="MongoDB" title="MongoDB" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+      <img alt="Firebase" title="Firebase" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+      <img alt="AWS" title="AWS" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & DevOps</strong></td>
+    <td>
+      <img alt="Git" title="Git" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img alt="GitHub" title="GitHub" width="28" src="https://cdn.simpleicons.org/github/ffffff" />
+      <img alt="NPM" title="NPM" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+      <img alt="Vite" title="Vite" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+      <img alt="VS Code" title="VS Code" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img alt="GitHub Actions" title="GitHub Actions / CI/CD" width="28" src="https://cdn.simpleicons.org/githubactions/2088FF" />
+    </td>
+  </tr>
+</table>
 </details>
 
 ---
