@@ -123,9 +123,9 @@ I am currently pursuing degrees in **Systems Analysis and Development** and **So
   <tr>
     <td><strong>Languages</strong></td>
     <td>
+        <img alt="TypeScript" title="TypeScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img alt="JavaScript" title="JavaScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img alt="TypeScript" title="TypeScript" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img alt="Swift" title="Swift" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+    <img alt="Swift" title="Swift" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
     </td>
   </tr>
   <tr>
