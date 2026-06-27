@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Profissional em formação na área de desenvolvimento de software, com foco em **Software Engineering** e **AI-Driven Solutions Architecture**.
+Profissional em formação na área de desenvolvimento de software, com foco em **Engenharia de Software e Arquitetura de Soluções Baseadas em IA.**.
 
 Tenho direcionado minha evolução para o desenvolvimento de aplicações completas, combinando lógica de negócio, organização de sistemas e uso estratégico de IA no desenho de soluções.
 
