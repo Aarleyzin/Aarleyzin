@@ -191,7 +191,7 @@ I am currently pursuing degrees in **Systems Analysis and Development** and **So
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Aarleyzin&theme=tokyonight&locale=pt_br"/>
+  <img src="https://streak-stats.demolab.com?user=aarleyzin&theme=tokyonight&locale=pt_BR"/>
 </div>
 
 
