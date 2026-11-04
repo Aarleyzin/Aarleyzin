@@ -182,10 +182,10 @@ I am currently pursuing degrees in **Systems Analysis and Development** and **So
   <tr>
     <td>
       <img height="180em"
-  src="https://github-readme-stats-livid-nine-82.vercel.app/api?username=Aarleyzin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" />
+  src="https://github-readme-stats-fast.vercel.app/api?username=Aarleyzin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" />
     </td>
     <td>
-      <img src="https://github-readme-stats-livid-nine-82.vercel.app/api/top-langs/?username=Aarleyzin&layout=compact&theme=tokyonight&hide_border=true&card_width=400&cache_seconds=1800&v=2" height="180em" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aarleyzin&layout=compact&theme=tokyonight&hide_border=true&card_width=400&cache_seconds=1800&v=2" height="180em" />
     </td>
   </tr>
 </table>
